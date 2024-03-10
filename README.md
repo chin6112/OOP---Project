@@ -15,6 +15,6 @@
 4.หน้าสี่จะแสดงเว็บ Sequence เพื่อสุ่มลำดับตัวเลข
 ```
 # presentation:[canva]
-* https://www.canva.com/design/DAF_Hu4C6vo/p_z90YKQGPYIpp0_y-KkWg/edit?utm_content=DAF_Hu4C6vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* https://www.canva.com/design/DAF_Hu4C6vo/CTtpcyjkJa8nlzgVlNJEpA/view?utm_content=DAF_Hu4C6vo&utm_campaign=designshare&utm_medium=link&utm_source=editor
 # video: 
 -
